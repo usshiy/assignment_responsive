@@ -92,15 +92,9 @@ margin-bottom: 5%;
 .step-img2 {
   background-position: bottom;
   background-size: 100%;
-  background-repeat:no-repeat;
 }
 .step-img3 {
   background-position: bottom;
   background-size: 100%;
-  background-repeat: no-repeat;
-}
-.step-num {
-  background-color: #ff9a4b;
-  color: #fff;
 }
 }
